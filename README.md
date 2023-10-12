@@ -46,7 +46,7 @@ Note: Make sure you have installed `gcc` and `cuda`, and `nvcc` can work (if you
 
 ## Datasets Preparation
 
-### nuScenes
+### nuScenes (test git)
 Download the nuScenes dataset from [here](https://www.nuscenes.org/nuscenes#download). Unzip and arrange it as follows. Then fill in the `data_root` entry in the .yaml configuration file.
 ```
 nuscenes/
